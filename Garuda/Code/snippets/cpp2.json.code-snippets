@@ -1,0 +1,24 @@
+{
+	"Boiler Plate": {
+		"prefix": "cpp_contest",
+		"body": [
+		  "#include<bits/stdc++.h>",
+		  "using namespace std;",
+		  "typedef long long int ll;",
+		  "#define endl '\\n' ",
+		  "#define YES cout<<\"YES\"<<endl;",
+		  "#define NO cout<<\"NO\"<<endl;",
+		  "",
+		  "int main(){",
+		  "    ios_base::sync_with_stdio(false);",
+		  "    cin.tie(NULL);",
+		  "    ll t=1;",
+		  "    cin>>t;",
+		  "    while(t--){",
+		  "        $1",
+		  "    }",
+		  "}"
+		],
+		"description": "Boiler Plate"
+	  }
+}

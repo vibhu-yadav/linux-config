@@ -1,0 +1,60 @@
+<snippet>
+  <content><![CDATA[
+#include<bits/stdc++.h>
+using namespace std;
+template <class S, class T>ostream& operator <<(ostream& os, const pair<S, T>& p) {return os << "(" << p.first << ", " << p.second << ")";}
+template <class T>ostream& operator <<(ostream& os, const vector<T>& p) {os << "[ "; for (auto& it : p) os << it << " "; return os << "]";}
+template <class T>ostream& operator <<(ostream& os, const unordered_set<T>& p) {os << "[ "; for (auto& it : p) os << it << " "; return os << "]";}
+template <class S, class T>ostream& operator <<(ostream& os, const unordered_map<S, T>& p) {os << "[ "; for (auto& it : p) os << it << " "; return os << "]";}
+template <class T>ostream& operator <<(ostream& os, const set<T>& p) {os << "[ "; for (auto& it : p) os << it << " "; return os << "]";}
+template <class T>ostream& operator <<(ostream& os, const multiset<T>& p) {os << "[ "; for (auto& it : p) os << it << " "; return os << "]";}
+template <class S, class T>ostream& operator <<(ostream& os, const map<S, T>& p) {os << "[ "; for (auto& it : p) os << it << " "; return os << "]";}
+template <class T> void dbs(string str, T t) {cerr << str << " : " << t << "\n";}
+template <class T, class... S> void dbs(string str, T t, S... s) {int idx = str.find(','); cerr << str.substr(0, idx) << " : " << t << ","; dbs(str.substr(idx + 1), s...);}
+template <class T> void prc(T a, T b) {cerr << "["; for (T i = a; i != b; ++i) {if (i != a) cerr << ", "; cerr << *i;} cerr << "]\n";}
+
+
+typedef long long ll;
+#define endl '\n'
+const int mod=1000000007;
+
+void read_input()
+{
+  string line;
+  while(getline(cin, line)){
+        $0
+  }
+}
+
+
+auto partA()
+{
+  
+    return -1;
+}
+
+auto partB()
+{
+  
+    return -1;
+}
+
+signed main()
+{
+
+    read_input();
+    
+    auto ansA = partA();
+    cout << "PART A : " << ansA << endl << endl;
+
+    auto ansB = partB();
+    cout << "PART B : " << ansB << endl;
+
+    return 0;
+}
+]]></content>
+  <tabTrigger>AOC</tabTrigger>
+  <description>Boilerplate code for Advent of Code</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope >source.python</scope > -->
+</snippet>

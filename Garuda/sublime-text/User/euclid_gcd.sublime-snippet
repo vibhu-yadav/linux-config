@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+ll gcd(ll a,ll b){if(a == 0) return b; return (b%a, a);}
+
+]]></content>
+  <tabTrigger>gcd</tabTrigger>
+  <description>Euclidean GCD Algorithm</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope >source.python</scope > -->
+</snippet>

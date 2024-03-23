@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"Darkula Color Scheme",
+		"Dracula Color Scheme",
+		"EasyClangComplete",
+		"LSP",
+		"LSP-clangd",
+		"LSP-marksman",
+		"LSP-pylsp",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Package Control",
+		"SublimeAStyleFormatter",
+		"Terminus",
+		"Theme - Spacegray",
+	],
+}

@@ -1,0 +1,46 @@
+2 screens: Height=1080
+2 screens: Width=1920
+2 screens: Window-Maximized=true
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAD5AAAEDvwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgAAAAAqAAAEDv////8A///+AAAHgAAABA4AAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+
+[Desktop Entry]
+FullScreen=false
+shouldShowMenuBarComingFromFullScreen=false
+shouldShowToolBarComingFromFullScreen=true
+
+[FileDialogSize]
+2 screens: Height=594
+2 screens: Width=978
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[KFileDialog Settings]
+Recent Files[$e]=SoK - Fully Homomorphic Encryption over the [Discretized] Torus.pdf,file:///mnt/Local_Disk_E/IIT-KGP/BTP/Papers/THE LOTTERY TICKET HYPOTHESIS - FINDING SPARSE\\, TRAINABLE NEURAL NETWORKS.pdf,file:///mnt/Local_Disk_E/IIT-KGP/BTP/Papers/SoK - Fully Homomorphic Encryption over the [Discretized] Torus.pdf,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60003 - High Performance in Computer Architecture/Slides/6. Instruction Level Parallelism Hardware Techniques.pdf,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60003 - High Performance in Computer Architecture/Books/Computer Architecture - A quantitative approach.pdf,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/AI60004 - Big Data Processing/Slides/12. Map Reduce Algorithm.pdf,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/AI60004 - Big Data Processing/Slides/11. Map Reduce Algorithm.pdf,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60002 - Distributed Systems/Slides/6. Leader Election.pdf,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60002 - Distributed Systems/Slides/5. Clocks.pdf,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60002 - Distributed Systems/Slides/4. Global States.pdf,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60002 - Distributed Systems/Slides/3. Common Knowledge.pdf,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60002 - Distributed Systems/Slides/2. Models of Distributed System.pdf,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60002 - Distributed Systems/Slides/7. Consensus.pdf,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60003 - High Performance in Computer Architecture/Slides/6.2 Scoreboard & Tomasulo's Algorithm.pdf,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60003 - High Performance in Computer Architecture/Slides/5. Instruction Level Parallelism - Software Techniques.pdf,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60003 - High Performance in Computer Architecture/Slides/1.2 Gustafson's Law.pdf
+Recent URLs[$e]=file:///mnt/Local_Disk_E/IIT-KGP/BTP/,file:$HOME/,file:///mnt/Local_Disk_E/,file:$HOME/Documents/,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60003 - High Performance in Computer Architecture/Books/,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/AI60004 - Big Data Processing/Slides/,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60002 - Distributed Systems/Slides/,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/AI60004 - Big Data Processing/,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60003 - High Performance in Computer Architecture/,file:///mnt/Local_Disk_E/IIT-KGP/BTP/Papers/,file:///mnt/Local_Disk_E/IIT-KGP/SEM-8/
+detailViewIconSize=16
+
+[MainWindow]
+1536x864 screen: Height=864
+1536x864 screen: Width=1536
+1536x864 screen: Window-Maximized=true
+1920x1080 screen: Height=1080
+1920x1080 screen: Width=1920
+2 screens: Height=864
+2 screens: Width=1536
+2 screens: Window-Maximized=true
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAD5AAADNvwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgAAAAAqAAADNv////8A///+AAAGAAAAAzYAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60003 - High Performance in Computer Architecture/Books/Computer Architecture - A quantitative approach.pdf
+File2[$e]=/mnt/Local_Disk_E/IIT-KGP/SEM-8/CS60003 - High Performance in Computer Architecture/Slides/6. Instruction Level Parallelism Hardware Techniques.pdf
+File3[$e]=/mnt/Local_Disk_E/IIT-KGP/BTP/Papers/SoK - Fully Homomorphic Encryption over the [Discretized] Torus.pdf
+File4[$e]=/mnt/Local_Disk_E/IIT-KGP/BTP/Papers/THE LOTTERY TICKET HYPOTHESIS - FINDING SPARSE, TRAINABLE NEURAL NETWORKS.pdf
+Name1[$e]=Computer Architecture - A quantitative approach.pdf
+Name2[$e]=6. Instruction Level Parallelism Hardware Techniques.pdf
+Name3[$e]=SoK - Fully Homomorphic Encryption over the [Discretized] Torus.pdf
+Name4[$e]=THE LOTTERY TICKET HYPOTHESIS - FINDING SPARSE, TRAINABLE NEURAL NETWORKS.pdf

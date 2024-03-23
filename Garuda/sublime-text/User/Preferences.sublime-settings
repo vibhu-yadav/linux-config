@@ -1,0 +1,16 @@
+{
+	"ignored_packages":
+	[
+		"EasyClangComplete",
+		"Vintage",
+	],
+	"theme": "Agila Dracula.sublime-theme",
+	"color_scheme": "Packages/Agila Theme/Agila Dracula.tmTheme",
+	"font_size": 15,
+	"font_face" : "FiraCode Nerd Font",
+
+	"show_git_status": false,
+
+	"save_on_focus_lost": true,
+	"index_files": true,
+}

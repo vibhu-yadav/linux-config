@@ -1,0 +1,38 @@
+{
+	"": {
+		"prefix": "cpp_base",
+		"body": [
+		  "#include<bits/stdc++.h>",
+		  "using namespace std;",
+		  "typedef long long ll;",
+		  "#define endl '\\n'",
+		  "const int mod=1000000007;",
+		  "",
+		  "void solve()",
+		  "{",
+		  "    ll i,j,k,n,m,q;",
+		  "    $0",
+		  "}",
+		  "",
+		  "signed main()",
+		  "{",
+		  "    ios_base::sync_with_stdio(0);",
+		  "    cin.tie(0); cout.tie(0);",
+		  "   ",
+		  "    // #ifndef ONLINE_JUDGE",
+		  "    // freopen(\"input.txt\", \"r\", stdin);  ",
+		  "    // freopen(\"output.txt\", \"w\", stdout);",
+		  "    // #endif",
+		  "",
+		  "    int t=1;",
+		  "    cin>>t;",
+		  "",
+		  "    while(t--)",
+		  "      solve();",
+		  "",
+		  "    return 0;",
+		  "}"
+		],
+		"description": ""
+	  }
+}

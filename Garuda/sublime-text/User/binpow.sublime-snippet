@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+ll binpow(ll a,ll b,ll p = mod){ ll ans = 1; while(b > 0ll){ if(b&1) ans = (ans * a) % p; a = (a * a) % p; b /= 2; } return ans; }
+
+]]></content>
+  <tabTrigger>binpow</tabTrigger>
+  <description>Binary Exponentiation</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope >source.python</scope > -->
+</snippet>
